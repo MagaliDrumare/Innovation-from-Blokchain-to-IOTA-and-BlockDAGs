@@ -3,8 +3,9 @@
 * Focus - IOTA by La Bulle Crypto : https://youtu.be/2CA9-jI7ulw
 
 * How does IOTA work? by Siraj Raval : https://youtu.be/B37UbzPlSzw
-
 ```
+How does IOTA work? by Siraj Raval
+
 #Blockchain problems : ->,9:02
 
 -Scalability issue : 
