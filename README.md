@@ -1,6 +1,7 @@
 # Whats is IOTA ? 
+* What is IOTA? How Tangle is better than Blockchain : https://youtu.be/yVcFTiSBV4g
 * IOTA : La fin de la blockchain ? by Crypto Nation : https://youtu.be/xzccWvMf1v0
-* Focus - IOTA by La Bulle Crypto : https://youtu.be/2CA9-jI7ulw
+
 
 * How does IOTA work? by Siraj Raval : https://youtu.be/B37UbzPlSzw
 ```
