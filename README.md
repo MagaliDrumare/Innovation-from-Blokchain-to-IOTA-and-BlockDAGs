@@ -32,13 +32,17 @@ How does IOTA work? by Siraj Raval
 Distributed Database, P2P Networks, Consensus and validation mechanism. 
 
 -First difference with Blockchain : it scales!!!
--> Tangle system / DAG grows when more participants make transactions, the overall system become more secure and faster. 
-->As more nodes are added to the networks, transactions are made faster (inverse of the Blockchain)
+-> Tangle system / DAG grows when more participants make transactions, 
+the overall system become more secure and faster. 
+->As more nodes are added to the networks, 
+transactions are made faster (inverse of the Blockchain)
 
 -Second difference with Blockchain : no miners and no transaction fees!!!
 ->All the nodes are ou are not miners. 
--> In IOTA, every participant in the network making a transactions also participate in the concensus. 
--> Consensus in IOTA are no longer decoupled from the transaction making process. 
+-> In IOTA, every participant in the network 
+making a transactions also participate in the concensus. 
+-> Consensus in IOTA are no longer decoupled 
+from the transaction making process. 
 -> Quantum resistant. 
 
 
@@ -48,15 +52,19 @@ Distributed Database, P2P Networks, Consensus and validation mechanism.
 ->You sign the transaction with a private key creating the hash of the transaction. 
 
 -step 2 : Tip selection 
-->Use Markov chain Monte Carlo algorythm to randomly point towards two unconfirmed transactions (branch transaction, trunk transaction) that you have to validate before your transaction is validated.
+->Use Markov chain Monte Carlo algorythm to randomly point towards 
+two unconfirmed transactions (branch transaction, trunk transaction) 
+that you have to validate before your transaction is validated.
 
 -step 3 : Proof of work 
-->In order to have your transaction validated  by the network, yo need to do some proof of work. 
+->In order to have your transaction validated  by the network, 
+you need to do some proof of work. 
 
 - These 3 steps done : Transaction is broadcasting to the network 
 ->Someone else will come along choose your transaction and validate it. 
 
--To protect the network from certain attacks IOTA relies on a centralized coordinator. A node that temporary validate the transaction.  
+-To protect the network from certain attacks IOTA relies on a centralized coordinator. 
+A node that temporary validate the transaction.  
 
 
 # IOTA Cases : Internet of things ->20'15 to 22' 
