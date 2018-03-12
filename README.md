@@ -56,7 +56,7 @@ from the transaction making process.
 ->You sign the transaction with a private key creating the hash of the transaction. 
 
 -step 2 : Tip selection 
-->Use Markov chain Monte Carlo algorythm to randomly point towards 
+->Use Markov chain Monte Carlo algorithm to randomly point towards 
 two unconfirmed transactions (branch transaction, trunk transaction) 
 that you have to validate before your transaction is validated.
 
